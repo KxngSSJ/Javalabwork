@@ -1,0 +1,21 @@
+td,th{
+	border: 1px Solid Black;
+	padding: 25px: 
+}
+td{
+   Text-align: center;
+}
+   
+h1{
+    color: Red;
+	font-family: verdana;
+	font-size: 300%;
+}
+p {
+  color: Violet;
+  font-family: Arial rounded mt bold;
+  font-size: 160%;
+}
+body {
+	  background-color: yellow;
+}
